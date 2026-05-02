@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define MAX = 30;
+#define MAX  30;
 
 
 int main(){
